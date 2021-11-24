@@ -2,6 +2,7 @@
 ****** Used tools/softwares ********
 - TestNG
 - Maven
+- Added all required dependencies to pom.xml
 - Eclipse IDE
 - Java programming language
 

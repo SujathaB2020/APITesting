@@ -13,6 +13,6 @@
 
 ***** Methods ******
 
-get() - to connect to REST API and get JSON response
-then().body() - to navigate through JSON response and find perticular element to compare
-equalTo() - to compare value from response with given value 
+- get() - to connect to REST API and get JSON response
+- then().body() - to navigate through JSON response and find perticular element to compare
+- equalTo() - to compare value from response with given value 
